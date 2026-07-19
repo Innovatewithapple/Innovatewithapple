@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mihir Vyas
+# Mihir
 
 ### AI/ML Engineer
 
