@@ -37,7 +37,7 @@ My current areas of interest include Large Language Models, Information Retrieva
 
 ## Selected Work
 
-### Resume Intelligence System
+### [Resume Intelligence System](https://github.com/Innovatewithapple/Resume-Intelligence-System)
 
 An AI-powered recruitment application that extracts structured resume information using parallel AI agents and performs semantic Resume ↔ Job Description matching.
 
@@ -47,7 +47,7 @@ Python · LangGraph · FastAPI · Transformers · Docker
 
 ---
 
-### Football Multi-Agent Analyst
+### [Football Multi-Agent Analyst](https://github.com/Innovatewithapple/Football-Multi-Agent-Analyst)
 
 A multi-agent AI application that combines player statistics, match information and football news to generate comprehensive match analysis.
 
@@ -57,7 +57,7 @@ LangGraph · FastAPI · Groq · NVIDIA API · Docker
 
 ---
 
-### BERT Dense Retriever
+### [BERT Dense Retriever](https://github.com/Innovatewithapple/dense-semantic-retrieval)
 
 Fine-tuned a BERT-based Dense Retriever on the MS MARCO dataset and evaluated its retrieval performance across multiple BEIR benchmark datasets.
 
@@ -70,7 +70,7 @@ Fine-tuned a BERT-based Dense Retriever on the MS MARCO dataset and evaluated it
 
 ---
 
-### Retrieval-Augmented Generation
+### [Retrieval-Augmented Generation](https://github.com/Innovatewithapple/transformer-paper-rag)
 
 A Retrieval-Augmented Generation (RAG) application using semantic chunking, FAISS vector search, reranking and LLM-powered question answering.
 
@@ -109,26 +109,12 @@ A Retrieval-Augmented Generation (RAG) application using semantic chunking, FAIS
 - Firebase
 - MVVM
 
----
-
-## GitHub
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Innovatewithapple&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Innovatewithapple&layout=compact&hide_border=true&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Innovatewithapple&theme=github-dark&hide_border=true"/>
-</p>
-
----
 
 ## Elsewhere
 
-- **LinkedIn** — YOUR_LINKEDIN_URL
-- **Hugging Face** — YOUR_HUGGINGFACE_URL
-- **Email** — YOUR_EMAIL
+- **LinkedIn** — https://www.linkedin.com/in/imihir/
+- **Hugging Face** — https://huggingface.co/Innovatewithapple
+- **Email** — mihirvyasapple@gmail.com
 
 ---
 
