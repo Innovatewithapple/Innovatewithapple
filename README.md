@@ -47,16 +47,6 @@ Python · LangGraph · FastAPI · Transformers · Docker
 
 ---
 
-### [Football Multi-Agent Analyst](https://github.com/Innovatewithapple/Football-Multi-Agent-Analyst)
-
-A multi-agent AI application that combines player statistics, match information and football news to generate comprehensive match analysis.
-
-**Built with**
-
-LangGraph · FastAPI · Groq · NVIDIA API · Docker
-
----
-
 ### [BERT Dense Retriever](https://github.com/Innovatewithapple/dense-semantic-retrieval)
 
 Fine-tuned a BERT-based Dense Retriever on the MS MARCO dataset and evaluated its retrieval performance across multiple BEIR benchmark datasets.
@@ -67,6 +57,16 @@ Fine-tuned a BERT-based Dense Retriever on the MS MARCO dataset and evaluated it
 - Evaluated on BEIR benchmarks
 - Dense Retrieval
 - Semantic Search
+
+---
+
+### [Football Multi-Agent Analyst](https://github.com/Innovatewithapple/Football-Multi-Agent-Analyst)
+
+A multi-agent AI application that combines player statistics, match information and football news to generate comprehensive match analysis.
+
+**Built with**
+
+LangGraph · FastAPI · Groq · NVIDIA API · Docker
 
 ---
 
