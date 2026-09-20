@@ -24,6 +24,7 @@ My current areas of interest include Large Language Models, Information Retrieva
 
 ## Current Focus
 
+- Computer Vision
 - Large Language Models (LLMs)
 - Multi-Agent AI Systems
 - Retrieval-Augmented Generation (RAG)
@@ -36,6 +37,16 @@ My current areas of interest include Large Language Models, Information Retrieva
 ---
 
 ## Selected Work
+
+### [Vision & Spatial Intelligence System](https://github.com/Innovatewithapple/Resume-Intelligence-System)
+
+An end-to-end computer vision project exploring how machines can perceive and reason about physical environments through object detection, instance segmentation, human pose estimation, and 3D spatial geometry.
+
+**Build with**
+
+Python · OpenCV · PyTorch · YOLO · MuJoCo
+
+---
 
 ### [Resume Intelligence System](https://github.com/Innovatewithapple/Resume-Intelligence-System)
 
